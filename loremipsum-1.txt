@@ -1,0 +1,6 @@
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas suscipit libero et magna auctor tincidunt. Suspendisse volutpat in mauris at luctus. Phasellus quis velit at ipsum tempus ullamcorper. Duis metus dolor, semper ac posuere vitae, faucibus eu lectus. In hac habitasse platea dictumst. Etiam dignissim diam elit, ut fringilla tortor luctus in. Aenean a diam accumsan, scelerisque nulla accumsan, scelerisque dolor.
+<generated>Generated 1 paragraph, 61 words, 426 bytes of Lorem Ipsum</generated>
+<donatelink>https://www.lipsum.com/donate</donatelink>
+<creditlink>https://www.lipsum.com/</creditlink>
+<creditname>James Wilson</creditname>
+</feed>
